@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a suudent<br>Persuing Masters in Computer Application
+Currently a sudent<br>Persuing Masters in Computer Application
 
 
 ## 🌐 Socials:
